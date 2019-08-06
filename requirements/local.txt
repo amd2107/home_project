@@ -1,12 +1,1 @@
-certifi==2019.6.16
-chardet==3.0.4
-Django==2.2.4
-djangorestframework==3.10.1
-idna==2.8
-mysqlclient==1.4.2.post1
-pytz==2019.1
-requests==2.22.0
-sqlparse==0.3.0
-stripe==2.32.1
-Unipath==1.1
-urllib3==1.25.3
+-r base.txt
